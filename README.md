@@ -1,2 +1,4 @@
 "# Closest-Pair" 
-"# Closest-Pair" 
+
+Basta kana
+
